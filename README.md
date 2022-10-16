@@ -22,3 +22,6 @@ Coming into HackTX both of us had little to no experience with these two Google 
 
 ## What's next for Safe Path
 We are in the process of creating an iOS application that will make the data more accessible for users and university students. One notable improvement that we have in mind is to create a route generation system for the user to enter their desired destination and for Safe Path to generate a path that the user shall take. It would do this by quantifying the various available routes by time, distance, and safety and then using an algorithm to decide the optimal route.
+
+### Made By:
+Rohan Nayak and Tarun Ajjarapu
